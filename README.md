@@ -10,6 +10,6 @@ Many features in this app 🥲
 1.0 Version
 .Mp4 Support @ any resolution.
 Smoothly running in up to andriod 10. 👀
-/*This code is beginner level source code.*/
+*** For beginner level ***
 
 # 🥵_SHA2N_🥶
